@@ -1,6 +1,5 @@
 # Restaurant-Management-System (CLI - based)
 
-Involves
 1. Management System of a normal restaurant that has functionalities like:
 - Create new order
 - Delete existing order
