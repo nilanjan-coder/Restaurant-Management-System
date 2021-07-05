@@ -1,4 +1,4 @@
-# Restaurant-Management-System
+# Restaurant-Management-System (CLI - based)
 
 ##### Description:
 Involves
@@ -11,6 +11,3 @@ Involves
 
 ##### Language:
 [C++](http://www.cplusplus.org/)
-
-##### Type:
-CLI (Command Line Interface) based
